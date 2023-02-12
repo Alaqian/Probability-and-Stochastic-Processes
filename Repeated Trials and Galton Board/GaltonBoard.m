@@ -1,3 +1,5 @@
+% zihao zhu (2023). GaltonBoard (https://www.mathworks.com/matlabcentral/fileexchange/67995-galtonboard), MATLAB Central File Exchange. Retrieved February 12, 2023.
+
 classdef GaltonBoard < matlab.apps.AppBase
 
     % Properties that correspond to app components
